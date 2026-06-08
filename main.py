@@ -24,7 +24,7 @@ async def ask_ai(request: Request):
     
     api_key = os.environ.get("GEMINI_API_KEY")
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-2.5-flash')
     
     system_prompt = f"""
     You are the voice assistant for {profile_data['name']}'s web portfolio. 
