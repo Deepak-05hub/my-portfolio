@@ -1,0 +1,43 @@
+{
+  "name": "DEEPAK L",
+  "role": "AI & Data Science Engineer",
+  "company": "B.Tech Graduate (2026)",
+  "about": "I am a highly motivated B.Tech graduate in Artificial Intelligence and Data Science with hands-on experience in Python, web development, and data analytics. I recently secured 1st place among 1,000+ teams at a national hackathon.",
+  "projects": [
+    {
+      "title": "AI-Based Fire-Fighting Robot (Hybrid)",
+      "description": "Architected a fully autonomous fire-fighting robot using IoT sensors and implemented AI-driven decision logic, securing 1st place at a national level hackathon."
+    }
+  ],
+  "technical_skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "HTML5",
+    "CSS3",
+    "MySQL",
+    "Power BI",
+    "Machine Learning",
+    "Google Cloud"
+  ],
+  "contact": {
+    "email": "deepdeepak052004@gmail.com",
+    "phone": "+91 8973398887",
+    "linkedin": "linkedin.com/in/deepak-1-5a754732a",
+    "github": "github.com/Deepak-05hub"
+  },
+  "experience": [
+    {
+      "title": "Web Development Intern",
+      "company": "Pumo Technovation",
+      "dates": "Feb 2024 - Mar 2024",
+      "description": "Built fully responsive web pages using HTML5 and CSS3, and collaborated on real-world project workflows using GitHub version control."
+    }
+  ],
+  "certifications": [
+    "Oracle Certification Java Programming",
+    "IBM Skills Build - UI/UX Design",
+    "NPTEL-Google Cloud Computing (Elite)"
+  ],
+  "education": "B.Tech in Artificial Intelligence & Data Science at Dhanalakshmi Srinivasan College of Engineering"
+}
