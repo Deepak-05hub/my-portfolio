@@ -24,16 +24,8 @@
   },
 
   "about": {
-    "summary": "I am a highly motivated B.Tech graduate in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University, graduating in 2026 with a CGPA of 8.1 out of 10. I have hands-on experience in Python, web development, data analytics, and AI/ML concepts. I secured 1st place among 1,000+ teams at a national-level hackathon by building an AI-Based Fire-Fighting Robot, which reflects my ability to work under pressure, lead a team, and deliver real working products. I hold certifications from Oracle, IBM, and NPTEL Google Cloud (Elite), and I am actively seeking entry-level roles as a Software Engineer, Python Developer, Data Analyst, or AI/ML Engineer.",
+    "summary": "I am a highly motivated B.Tech graduate in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University, graduating in 2026 with a CGPA of 8.1 out of 10. I have hands-on experience in Python, web development, data analytics, and AI/ML concepts. I secured 1st place among 1,000+ teams at a national-level hackathon by building an AI-Based Fire-Fighting Robot, which reflects my ability to work under pressure, lead a team, and deliver real working products. I hold certifications from Oracle, IBM, and NPTEL Google Cloud Elite, and I am actively seeking entry-level roles as a Software Engineer, Python Developer, Data Analyst, or AI/ML Engineer.",
     "personality": "I am an adaptable, curious, and hardworking engineer who loves building things that actually work. I thrive in team environments, pick up new tools quickly, and never stop learning. I believe in writing clean code, solving real problems, and continuously improving myself.",
-    "what_makes_me_unique": [
-      "Won 1st place among 1,000+ teams at a national hackathon — not just participated, but won.",
-      "Built a complete end-to-end AI-powered IoT robot as a final year project.",
-      "Certified by Oracle, IBM, and Google Cloud (NPTEL Elite) — showing commitment to continuous learning.",
-      "Experienced in both frontend web development and backend Python scripting.",
-      "Strong foundation in data analytics with Power BI and MySQL.",
-      "Authored a full IEEE-format research paper on my final year project."
-    ],
     "career_goal": "I am looking for an entry-level IT role where I can contribute to real projects from day one. My goal is to join a fast-growing tech company in Bangalore, grow into a strong software engineer or data professional, and eventually work on impactful AI-powered products."
   },
 
@@ -46,21 +38,7 @@
       "duration": "2022 – 2026",
       "cgpa": "8.1 / 10",
       "graduation_year": 2026,
-      "key_subjects": [
-        "Machine Learning",
-        "Deep Learning",
-        "Data Structures and Algorithms",
-        "Database Management Systems",
-        "Python Programming",
-        "Artificial Intelligence",
-        "Natural Language Processing",
-        "Internet of Things",
-        "Cloud Computing",
-        "Computer Networks",
-        "Operating Systems",
-        "Object-Oriented Programming"
-      ],
-      "highlights": "Completed a full final year project on AI-Based Fire-Fighting Robot (Hybrid) and authored an IEEE conference paper. Actively participated in national-level hackathons and technical events."
+      "key_subjects": ["Machine Learning","Deep Learning","Data Structures and Algorithms","Database Management Systems","Python Programming","Artificial Intelligence","Natural Language Processing","Internet of Things","Cloud Computing","Computer Networks","Operating Systems","Object-Oriented Programming"]
     },
     {
       "degree": "Higher Secondary (12th Grade)",
@@ -92,14 +70,8 @@
         "Built and styled fully responsive web pages using HTML5 and CSS3, translating design mockups into clean, cross-browser-compatible interfaces.",
         "Collaborated with senior developers on real-world project workflows, adopting GitHub version control best practices for code reviews and branch management.",
         "Gained exposure to client requirement gathering, iterative design cycles, and professional debugging techniques in a live development environment.",
-        "Implemented responsive layouts ensuring compatibility across Chrome, Firefox, and Safari browsers on both desktop and mobile devices.",
-        "Participated in daily stand-up meetings and followed agile-style sprint workflows for feature delivery."
-      ],
-      "key_learnings": [
-        "How to work in a professional development team environment.",
-        "Git-based version control for collaborative coding.",
-        "Translating design wireframes into functional web pages.",
-        "Writing clean, maintainable, and cross-browser compatible HTML and CSS."
+        "Implemented responsive layouts ensuring compatibility across Chrome, Firefox, and Safari.",
+        "Participated in daily stand-up meetings and followed agile-style sprint workflows."
       ],
       "impact": "This internship gave me my first professional software experience and taught me how real-world web projects are built, reviewed, and delivered in a company setting."
     }
@@ -111,47 +83,24 @@
       "type": "Final Year Project + National Hackathon Winner",
       "tech_stack": ["Python", "IoT", "Embedded Systems", "Arduino", "Flame Sensor", "Temperature Sensor", "Gas Sensor", "Motor Driver", "Water Pump"],
       "duration": "Apr 2025",
-      "achievement": "1st Place among 1,000+ competing teams at a national-level hackathon with a fully functional live demo",
-      "description": "Designed and built a fully autonomous fire-fighting robot that detects fire using a multi-sensor array (flame, temperature, and gas sensors) and responds by navigating toward the fire and activating a water-spraying suppression system — all without any human intervention.",
-      "how_it_works": "The robot uses three types of IoT sensors: a flame sensor that detects infrared radiation from fire, a temperature sensor for heat threshold detection, and a gas sensor for smoke and combustible gas. When sensors detect abnormal readings, an AI decision logic module written in Python evaluates all three sensor inputs simultaneously and triggers the motorised navigation system to move toward the fire. Once within range, the water pump activates to suppress the fire. The entire pipeline from detection to suppression runs with minimal latency.",
-      "technical_highlights": [
-        "Multi-sensor fusion: flame, temperature, and gas sensors feeding into one decision pipeline.",
-        "AI-driven threshold logic to reduce false positives and improve accuracy.",
-        "Real-time response with minimal latency from detection to water spray activation.",
-        "Hardware-software integration combining Python scripts with Arduino-based embedded systems.",
-        "Fully autonomous navigation with no remote control required during fire suppression."
-      ],
-      "hackathon_story": "Our team was competing against over 1,000 teams from colleges across India. We built the prototype in a short sprint, integrated hardware and software on-site, and ran a live demo in front of judges. The robot successfully detected and suppressed a controlled fire on the demo stage, earning us 1st place.",
-      "research_output": "Authored a complete IEEE-format conference paper and project report documenting system architecture, sensor communication protocols, test results, accuracy metrics, and deployment considerations.",
-      "impact": "This project demonstrates my ability to combine AI, IoT, and embedded systems into a real working product — not just a simulation or a slideshow."
+      "achievement": "1st Place among 1,000+ competing teams at a national-level hackathon",
+      "description": "Designed and built a fully autonomous fire-fighting robot that detects fire using a multi-sensor array and responds by navigating toward the fire and activating a water-spraying suppression system without any human intervention.",
+      "how_it_works": "The robot uses flame, temperature, and gas sensors. When sensors detect abnormal readings, an AI decision logic module written in Python evaluates all three inputs simultaneously and triggers motorised navigation toward the fire. Once in range, the water pump activates to suppress it.",
+      "research_output": "Authored a complete IEEE-format conference paper and project report documenting system architecture, sensor protocols, test results, and deployment considerations."
     },
     {
-      "title": "Personal Portfolio Website",
+      "title": "AI Voice Portfolio Website",
       "type": "Personal Project",
-      "tech_stack": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+      "tech_stack": ["HTML5", "CSS3", "JavaScript", "Web Speech API", "Gemini API", "FastAPI", "Python"],
       "url": "deepak-l.me",
-      "description": "Designed and built a fully responsive personal portfolio website to showcase my projects, skills, resume, and contact information to recruiters and potential employers.",
-      "features": [
-        "Clean editorial-style design with dark mode support.",
-        "Fully responsive layout for mobile, tablet, and desktop.",
-        "Project showcase section with descriptions and links.",
-        "Resume download button.",
-        "AI chatbot integration for visitor Q&A.",
-        "Contact section with direct links to email, LinkedIn, and GitHub."
-      ],
-      "purpose": "To create a strong online presence and give recruiters a professional, polished view of my work beyond just a resume."
+      "description": "Built a single-file AI-powered portfolio website with a floating voice chat widget that lets visitors ask questions about Deepak using voice input and receives spoken answers using the Web Speech API. Powered by Google Gemini AI on the backend.",
+      "features": ["Voice input using Web Speech API","Text-to-speech output","Floating chat widget","FastAPI Python backend","Gemini AI integration","Fully responsive design","Dark mode support"]
     },
     {
-      "title": "Data Analysis Projects (Power BI & MySQL)",
-      "type": "Academic & Personal Projects",
+      "title": "Data Analysis Dashboards",
+      "type": "Academic Project",
       "tech_stack": ["Power BI", "MySQL", "Microsoft Excel", "Python"],
-      "description": "Built multiple data analysis dashboards and SQL-based reporting projects as part of my academic coursework and self-learning.",
-      "highlights": [
-        "Created interactive dashboards in Power BI to visualize trends and KPIs.",
-        "Wrote complex SQL queries for data extraction, joining, filtering, and aggregation.",
-        "Cleaned and prepared raw data using Python (pandas) for analysis.",
-        "Summarized insights into actionable reports."
-      ]
+      "description": "Built interactive dashboards in Power BI to visualize trends and KPIs. Wrote complex SQL queries for data extraction, joining, filtering, and aggregation. Cleaned data using Python pandas for analysis."
     }
   ],
 
@@ -160,208 +109,570 @@
       "primary": ["Python", "SQL", "HTML5", "CSS3"],
       "secondary": ["Java", "JavaScript"],
       "details": {
-        "Python": "My strongest language. Used for scripting, data analysis, AI/ML models, automation, and backend development. Comfortable with libraries like pandas, numpy, matplotlib, and scikit-learn.",
-        "SQL": "Write complex queries, joins, subqueries, aggregations, and database design using MySQL.",
-        "HTML5_CSS3": "Build fully responsive, cross-browser-compatible web pages. Used in internship and portfolio projects.",
-        "Java": "Certified by Oracle. Understand OOP principles, exception handling, and enterprise patterns."
+        "Python": "Strongest language. Used for scripting, data analysis, AI/ML models, automation, backend development, FastAPI, and IoT integration.",
+        "SQL": "Complex queries, joins, subqueries, aggregations, and database design using MySQL.",
+        "HTML5_CSS3": "Fully responsive, cross-browser-compatible web pages. Used in internship and portfolio projects.",
+        "Java": "Oracle certified. OOP principles, exception handling, and enterprise patterns."
       }
     },
     "databases": ["MySQL"],
     "analytics_and_visualization": ["Power BI", "Microsoft Excel"],
-    "cloud_and_devops": ["Google Cloud Platform (GCP)", "VS Code", "GitHub"],
-    "ai_ml": ["Machine Learning", "Scikit-learn", "AI Decision Logic", "Data Preprocessing", "Feature Engineering"],
-    "iot_and_embedded": ["Arduino", "IoT Sensors (Flame, Temperature, Gas)", "Embedded Systems", "Motor Drivers"],
-    "web_development": ["HTML5", "CSS3", "Responsive Design", "REST APIs"],
+    "cloud_and_devops": ["Google Cloud Platform", "VS Code", "GitHub", "Git"],
+    "ai_ml": ["Machine Learning", "Scikit-learn", "AI Decision Logic", "Data Preprocessing", "Feature Engineering", "NLP basics"],
+    "iot_and_embedded": ["Arduino", "IoT Sensors", "Embedded Systems", "Motor Drivers"],
+    "web_development": ["HTML5", "CSS3", "Responsive Design", "REST APIs", "FastAPI"],
     "tools": ["VS Code", "Git", "GitHub", "Power BI", "MySQL Workbench", "Google Colab", "Jupyter Notebook"],
-    "soft_skills": ["Adaptability", "Communication", "Leadership", "Problem Solving", "Team Collaboration", "Quick Learner", "Attention to Detail"]
+    "soft_skills": ["Adaptability", "Communication", "Leadership", "Problem Solving", "Team Collaboration", "Quick Learner"]
   },
 
   "certifications": [
     {
       "title": "Oracle Certification – Java Programming",
       "issuer": "Oracle",
-      "description": "Covers Java fundamentals, object-oriented programming principles, exception handling, and enterprise application design patterns.",
       "skills_gained": ["Java", "OOP", "Exception Handling", "Enterprise Application Design"]
     },
     {
       "title": "IBM SkillsBuild – UI/UX Design",
       "issuer": "IBM",
-      "description": "Covers wireframing, prototyping, usability testing methodologies, and accessibility standards for digital products.",
-      "skills_gained": ["Wireframing", "Prototyping", "Usability Testing", "Accessibility Standards", "User Research"]
+      "skills_gained": ["Wireframing", "Prototyping", "Usability Testing", "Accessibility Standards"]
     },
     {
       "title": "NPTEL – Google Cloud Computing (Elite)",
-      "issuer": "NPTEL (in association with Google Cloud)",
+      "issuer": "NPTEL / Google Cloud",
       "badge": "Elite",
-      "description": "Advanced certification covering core Google Cloud services, deployment models, IAM policies, and cloud security best practices. Elite badge awarded for exceptional performance.",
-      "skills_gained": ["Google Cloud Platform", "Cloud Deployment", "IAM", "Cloud Security", "GCP Services"]
+      "skills_gained": ["Google Cloud Platform", "Cloud Deployment", "IAM", "Cloud Security"]
     }
   ],
 
   "awards": [
     {
       "title": "1st Place – National Hackathon",
-      "competition": "National Level Technical Hackathon",
       "teams_competing": "1,000+",
       "project": "AI-Based Fire-Fighting Robot (Hybrid)",
       "year": 2025,
-      "description": "Designed, built, and demonstrated the AI-Based Fire-Fighting Robot prototype in a live national-level competition. Secured 1st place among over 1,000 competing teams with a fully functional real-time demo in front of judges."
+      "description": "Secured top prize among 1000+ teams with a fully functional live robot demo in front of national judges."
     }
   ],
 
   "job_targets": {
-    "target_roles": [
-      "Software Engineer (SDE1)",
-      "Python Developer",
-      "Data Analyst",
-      "AI/ML Engineer",
-      "Frontend Developer",
-      "React Developer",
-      "Backend Developer",
-      "Full Stack Developer (Junior)"
-    ],
-    "target_companies_type": ["Product-based startups", "IT service companies", "AI/Data-focused firms", "Tech MNCs with fresher programs"],
+    "target_roles": ["Software Engineer","Python Developer","Data Analyst","AI/ML Engineer","Frontend Developer","React Developer","Backend Developer","Full Stack Developer"],
     "preferred_locations": ["Bangalore", "Chennai", "Remote", "Hyderabad"],
     "availability": "Immediately available. Open to relocation to Bangalore.",
-    "work_type": ["Full-time", "On-site", "Hybrid", "Remote"],
-    "salary_expectation": "Open to discussion based on role and company.",
-    "notice_period": "Immediately available (fresher)",
-    "recent_interviews": [
-      {
-        "company": "V Align Technologies",
-        "role": "Python Developer",
-        "location": "Bengaluru",
-        "type": "Face-to-face interview",
-        "status": "Attended"
-      }
-    ]
+    "work_type": ["Full-time", "On-site", "Hybrid", "Remote"]
   },
 
-  "online_presence": {
-    "portfolio": "https://deepak-l.me",
-    "github": "https://github.com/Deepak-05hub",
-    "linkedin": "https://linkedin.com/in/deepak-l-5a754732a",
-    "email": "deepdeepak052004@gmail.com"
-  },
-
-  "faq": [
-    {
-      "question": "Who is Deepak?",
-      "answer": "Deepak L is a 2026 B.Tech graduate in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University. He is a skilled Python developer, web developer, and data analytics enthusiast who won 1st place among 1,000+ teams at a national hackathon."
+  "keyword_qa": {
+    "greetings": {
+      "keywords": ["hi", "hello", "hey", "what's up", "good morning", "good evening", "howdy", "sup", "greetings", "namaste"],
+      "answers": [
+        "Hey there! I am Deepak's AI assistant. Ask me anything about his skills, projects, or background and I will answer right away.",
+        "Hello! Welcome to Deepak's portfolio. I can tell you about his skills, experience, projects, certifications, and how to reach him.",
+        "Hi! Great to meet you. I am the AI built into Deepak's portfolio. Ask me anything about him or even general tech topics."
+      ]
     },
-    {
-      "question": "What is Deepak's CGPA?",
-      "answer": "Deepak has a CGPA of 8.1 out of 10 in his B.Tech Artificial Intelligence and Data Science program from Anna University."
+    "identity": {
+      "keywords": ["who are you", "what are you", "who is this", "introduce yourself", "your name", "what do you do"],
+      "answers": [
+        "I am the AI assistant built into Deepak L's portfolio website. I can answer questions about his resume, projects, skills, and career goals.",
+        "I am Deepak's personal AI assistant. Think of me as a smarter, always-available version of his resume that can actually talk back.",
+        "I am an AI voice assistant embedded in Deepak's portfolio. I am powered by Google Gemini and trained on all of Deepak's professional information."
+      ]
     },
-    {
-      "question": "What are Deepak's skills?",
-      "answer": "Deepak's primary skills include Python, SQL, HTML5, CSS3, MySQL, Power BI, Machine Learning, and Google Cloud. He also has experience with Java, IoT, embedded systems, and REST APIs."
+    "who_is_deepak": {
+      "keywords": ["who is deepak", "tell me about deepak", "about deepak", "deepak background", "deepak intro", "introduce deepak"],
+      "answers": [
+        "Deepak L is a 2026 B.Tech graduate in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University with a CGPA of 8.1. He won 1st place among 1,000+ teams at a national hackathon and is now actively seeking entry-level IT roles in Bangalore.",
+        "Deepak is a passionate AI and Data Science engineer with hands-on experience in Python, web development, IoT, and data analytics. He is certified by Oracle, IBM, and Google Cloud, and built a fire-fighting robot that won a national competition.",
+        "Deepak L is a fresher software engineer who graduated in 2026 with a specialization in AI and Data Science. He is known for building real working products, winning national hackathons, and holding certifications from top tech organizations."
+      ]
     },
-    {
-      "question": "Is Deepak available for work?",
-      "answer": "Yes, Deepak is immediately available for work. He is actively looking for entry-level roles as a Software Engineer, Python Developer, Data Analyst, or AI/ML Engineer. He is open to Bangalore-based or remote opportunities and is ready to relocate."
+    "cgpa": {
+      "keywords": ["cgpa", "gpa", "marks", "grade", "score", "academic", "percentage", "result", "performance"],
+      "answers": [
+        "Deepak has a CGPA of 8.1 out of 10 in his B.Tech Artificial Intelligence and Data Science program from Anna University.",
+        "His academic score is 8.1 out of 10 CGPA, which reflects consistent performance throughout his four years of B.Tech study.",
+        "Deepak scored 8.1 CGPA in B.Tech, 79.3 percent in 12th grade, and 82.2 percent in 10th grade — a solid and consistent academic record."
+      ]
     },
-    {
-      "question": "What is Deepak's most impressive achievement?",
-      "answer": "Deepak led his team to win 1st place among over 1,000 competing teams at a national hackathon by building a fully functional AI-Based Fire-Fighting Robot using IoT sensors and Python-driven AI logic."
+    "education": {
+      "keywords": ["education", "college", "university", "degree", "btech", "b.tech", "anna university", "dhanalakshmi", "qualification", "studied", "study", "graduated", "graduation"],
+      "answers": [
+        "Deepak is pursuing a B.Tech in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University, graduating in 2026 with a CGPA of 8.1.",
+        "He completed his schooling at Govt. Boys Hr. Sec. School in Trichy — scoring 82.2 percent in 10th and 79.3 percent in 12th — before joining B.Tech in AI and Data Science.",
+        "Deepak's educational background is B.Tech in AI and Data Science from Anna University affiliated Dhanalakshmi Srinivasan College of Engineering, class of 2026, CGPA 8.1."
+      ]
     },
-    {
-      "question": "What internship has Deepak done?",
-      "answer": "Deepak completed a Web Development internship at Pumo Technovation in Coimbatore from February to March 2024. He built responsive web pages using HTML5 and CSS3, and worked with senior developers using GitHub version control in a real-world project environment."
+    "skills": {
+      "keywords": ["skills", "what can you do", "technical skills", "tech stack", "technologies", "tools", "what do you know", "expertise", "proficiency", "languages"],
+      "answers": [
+        "Deepak's core skills are Python, SQL, HTML5, CSS3, MySQL, Power BI, Machine Learning, and Google Cloud. He also has experience with Java, IoT, embedded systems, FastAPI, and REST APIs.",
+        "His technical stack includes Python as his strongest language, SQL and MySQL for databases, HTML and CSS for frontend, Power BI for data visualization, and Google Cloud for cloud computing.",
+        "Deepak knows Python, Java, SQL, HTML5, CSS3, MySQL, Power BI, Machine Learning, and Google Cloud. He also has hands-on experience with IoT, Arduino, embedded systems, and web development."
+      ]
     },
-    {
-      "question": "What certifications does Deepak hold?",
-      "answer": "Deepak holds three certifications: Oracle Java Programming, IBM SkillsBuild UI/UX Design, and NPTEL Google Cloud Computing with an Elite badge."
+    "python": {
+      "keywords": ["python", "py", "scripting", "automation", "pandas", "numpy", "scikit", "django", "flask", "fastapi"],
+      "answers": [
+        "Python is Deepak's strongest programming language. He uses it for scripting, data analysis, AI logic, IoT integration, backend APIs with FastAPI, and automation.",
+        "Deepak is highly proficient in Python. He has used it for building the AI logic in his fire-fighting robot, creating FastAPI backends, data analysis with pandas, and general scripting.",
+        "Yes, Python is Deepak's go-to language. He built his portfolio backend in Python using FastAPI, and used Python for AI decision logic in his award-winning robot project."
+      ]
     },
-    {
-      "question": "How can I contact Deepak?",
-      "answer": "You can contact Deepak at deepdeepak052004@gmail.com, call him at +91 8973398887, connect on LinkedIn at linkedin.com/in/deepak-l-5a754732a, or visit his portfolio at deepak-l.me."
+    "java": {
+      "keywords": ["java", "oracle", "oops", "oop", "object oriented", "spring", "enterprise"],
+      "answers": [
+        "Deepak is Oracle-certified in Java Programming, covering fundamentals, OOP principles, exception handling, and enterprise application design patterns.",
+        "He holds an Oracle Java certification and understands object-oriented programming, class design, exception handling, and core Java concepts.",
+        "Deepak knows Java through his Oracle certification. He understands OOP, encapsulation, inheritance, polymorphism, and exception handling in Java."
+      ]
     },
-    {
-      "question": "What roles is Deepak targeting?",
-      "answer": "Deepak is targeting entry-level roles including Software Engineer, Python Developer, Data Analyst, AI/ML Engineer, and Frontend or React Developer positions, preferably in Bangalore or remote."
+    "sql": {
+      "keywords": ["sql", "database", "mysql", "query", "join", "table", "relational", "db", "data"],
+      "answers": [
+        "Deepak works with MySQL and SQL for database management. He writes complex queries, joins, subqueries, aggregations, and handles data extraction and reporting.",
+        "He is skilled in MySQL and SQL, able to design tables, write complex queries with multiple joins, aggregate data, and build reporting queries for analytics.",
+        "SQL and MySQL are part of Deepak's core skill set. He uses them for database design, data retrieval, and building the backend data layer for applications."
+      ]
     },
-    {
-      "question": "Tell me about Deepak's fire-fighting robot project.",
-      "answer": "Deepak's AI-Based Fire-Fighting Robot uses IoT sensors including flame, temperature, and gas sensors to autonomously detect fire. An AI decision logic module written in Python evaluates all sensor inputs and triggers the robot to navigate toward the fire and activate a water pump for suppression. The project won 1st place among 1,000+ teams at a national hackathon and was also documented as an IEEE-format research paper."
+    "html_css": {
+      "keywords": ["html", "css", "frontend", "webpage", "web design", "responsive", "ui", "interface", "html5", "css3"],
+      "answers": [
+        "Deepak is proficient in HTML5 and CSS3. He built fully responsive, cross-browser-compatible web pages during his internship at Pumo Technovation and in his personal portfolio.",
+        "HTML5 and CSS3 are Deepak's frontend foundation. He used them to build his portfolio website, and during his internship he translated design mockups into clean, responsive interfaces.",
+        "Yes, Deepak knows HTML5 and CSS3 well. He is comfortable building responsive layouts, styling components, and ensuring cross-browser compatibility."
+      ]
     },
-    {
-      "question": "Where is Deepak from?",
-      "answer": "Deepak is from Musiri, Trichy, Tamil Nadu, India. He is currently open to relocating to Bangalore for the right opportunity."
+    "javascript": {
+      "keywords": ["javascript", "js", "react", "vue", "angular", "node", "frontend framework", "jquery"],
+      "answers": [
+        "Deepak has experience with JavaScript and has used it to build interactive features in his portfolio website, including the AI voice chat widget.",
+        "He has JavaScript knowledge used in frontend development and is open to learning React as he already has a strong HTML and CSS foundation.",
+        "Deepak uses JavaScript in his projects and is actively expanding his frontend framework skills. He is open to React Developer roles and growing fast in this area."
+      ]
     },
-    {
-      "question": "What is Deepak's portfolio website?",
-      "answer": "Deepak's portfolio website is deepak-l.me where you can see his projects, download his resume, and learn more about his skills and background."
+    "powerbi": {
+      "keywords": ["power bi", "powerbi", "dashboard", "visualization", "bi", "business intelligence", "report", "kpi", "charts"],
+      "answers": [
+        "Deepak uses Power BI to build interactive dashboards and visualize data trends and KPIs. It is part of his data analytics skill set.",
+        "Yes, Power BI is one of Deepak's tools. He creates dashboards, charts, and reports to present data insights clearly for decision-making.",
+        "Deepak has worked with Power BI for data visualization. He builds interactive reports and dashboards that make raw data easy to understand."
+      ]
     },
-    {
-      "question": "What is Deepak's GitHub?",
-      "answer": "Deepak's GitHub profile is github.com/Deepak-05hub where you can find his code repositories and project work."
+    "machine_learning": {
+      "keywords": ["machine learning", "ml", "ai", "artificial intelligence", "model", "algorithm", "neural network", "deep learning", "nlp", "classification", "regression", "prediction"],
+      "answers": [
+        "Deepak has studied Machine Learning and AI as core subjects in his B.Tech program and applied them in his fire-fighting robot project where AI decision logic drives the sensor-to-action pipeline.",
+        "Machine Learning and AI are at the core of Deepak's degree. He understands classification, regression, data preprocessing, feature engineering, and model evaluation.",
+        "Deepak's entire degree is in AI and Data Science. He has hands-on ML knowledge from coursework and project work, and applied AI decision logic in a real IoT robot that won a national hackathon."
+      ]
     },
-    {
-      "question": "What is Deepak's LinkedIn?",
-      "answer": "Deepak's LinkedIn profile is linkedin.com/in/deepak-l-5a754732a. You can connect with him there for professional opportunities."
+    "cloud": {
+      "keywords": ["cloud", "gcp", "google cloud", "aws", "azure", "deployment", "iam", "cloud computing", "server"],
+      "answers": [
+        "Deepak holds an NPTEL Elite certification in Google Cloud Computing. He is trained in core GCP services, deployment models, IAM policies, and cloud security best practices.",
+        "Yes, Deepak has Google Cloud knowledge backed by an Elite-level NPTEL certification. He understands cloud deployment, IAM, and GCP core services.",
+        "Deepak is certified in Google Cloud Computing with an Elite badge from NPTEL, covering cloud services, deployment, IAM, and security on the GCP platform."
+      ]
     },
-    {
-      "question": "Does Deepak know Python?",
-      "answer": "Yes, Python is Deepak's strongest programming language. He has used it for scripting, AI logic, IoT integration, data analysis, and backend development across multiple projects."
+    "iot": {
+      "keywords": ["iot", "embedded", "arduino", "sensor", "hardware", "robot", "raspberry pi", "microcontroller", "firmware"],
+      "answers": [
+        "Deepak has real hands-on IoT experience from building his fire-fighting robot using Arduino, flame sensors, temperature sensors, gas sensors, and motor drivers.",
+        "He worked extensively with embedded systems and IoT hardware for his final year project — integrating multiple sensors, motor drivers, and a water pump into a single autonomous system.",
+        "IoT and embedded systems are a proven strength for Deepak. He built a complete hardware-software integrated robot system using Arduino and Python that won 1st place at a national hackathon."
+      ]
     },
-    {
-      "question": "Does Deepak know React?",
-      "answer": "Deepak has exposure to frontend development and is open to React Developer roles. He has a strong HTML5 and CSS3 foundation and is actively expanding into React and JavaScript frameworks."
+    "internship": {
+      "keywords": ["internship", "pumo", "work experience", "professional experience", "company", "job experience", "industry"],
+      "answers": [
+        "Deepak completed a Web Development internship at Pumo Technovation in Coimbatore from February to March 2024. He built responsive web pages, used GitHub version control, and worked in a professional team environment.",
+        "His internship at Pumo Technovation was a 6-week web development role where he built HTML and CSS web pages, collaborated with senior developers, and followed agile workflows.",
+        "Deepak's internship experience is at Pumo Technovation where he developed responsive websites, followed Git-based version control workflows, and gained real-world software development experience."
+      ]
     },
-    {
-      "question": "What database does Deepak use?",
-      "answer": "Deepak works with MySQL for relational database management. He writes SQL queries for data extraction, joins, aggregations, and reporting."
+    "hackathon": {
+      "keywords": ["hackathon", "competition", "won", "award", "1st place", "winner", "national", "prize", "achievement", "rank"],
+      "answers": [
+        "Deepak won 1st place among 1,000+ competing teams at a national-level hackathon in 2025 by building and demonstrating a fully functional AI-Based Fire-Fighting Robot live in front of judges.",
+        "His biggest achievement is winning a national hackathon against 1,000+ teams. The robot he built used real IoT sensors and Python AI logic, and he delivered a live working demo on stage.",
+        "Deepak is a national hackathon champion. He led his team to secure 1st place among over 1,000 teams by creating an autonomous fire-fighting robot that detected and suppressed fire live during the demo."
+      ]
     },
-    {
-      "question": "Does Deepak have cloud experience?",
-      "answer": "Yes, Deepak holds an NPTEL Elite certification in Google Cloud Computing, covering GCP services, deployment models, IAM, and cloud security best practices."
+    "robot_project": {
+      "keywords": ["robot", "fire", "fire fighting", "autonomous", "sensor", "project", "final year", "fyp", "prototype", "flame", "gas sensor", "temperature"],
+      "answers": [
+        "Deepak's AI-Based Fire-Fighting Robot uses flame, temperature, and gas sensors to autonomously detect fire. A Python AI decision module processes all sensor data and triggers the robot to navigate toward fire and activate the water pump — no human control needed.",
+        "The fire-fighting robot is Deepak's flagship project. It integrates IoT multi-sensor fusion with Python AI logic to detect fire, move toward it, and suppress it automatically. It won 1st place at a national hackathon among 1,000+ teams.",
+        "The robot works by reading three types of sensors simultaneously. When thresholds are crossed, the Python AI logic makes a decision, activates navigation motors to reach the fire, and turns on the water pump for suppression — all in real time."
+      ]
     },
-    {
-      "question": "What is Power BI and does Deepak know it?",
-      "answer": "Power BI is Microsoft's business intelligence and data visualization tool. Yes, Deepak uses Power BI to build interactive dashboards and analyze data trends as part of his data analytics skill set."
+    "portfolio": {
+      "keywords": ["portfolio", "website", "site", "deepak-l.me", "personal site", "webpage", "online"],
+      "answers": [
+        "Deepak's portfolio website is at deepak-l.me. It showcases his projects, skills, resume, and has an AI voice chat assistant that lets you ask questions about him.",
+        "You can visit deepak-l.me to see Deepak's full portfolio, download his resume, explore his projects, and even chat with his AI assistant.",
+        "His portfolio at deepak-l.me is a custom-built website with a dark mode design, project showcases, resume download, and an AI-powered voice chatbot built with the Web Speech API and Gemini AI."
+      ]
     },
-    {
-      "question": "Has Deepak published any research?",
-      "answer": "Yes, Deepak authored a complete IEEE-format conference paper on the AI-Based Fire-Fighting Robot project, documenting the system architecture, sensor protocols, test results, and deployment details."
+    "github": {
+      "keywords": ["github", "git", "repository", "repo", "code", "open source", "version control", "commit"],
+      "answers": [
+        "Deepak's GitHub profile is at github.com/Deepak-05hub where you can find his code repositories and project work.",
+        "You can check out Deepak's GitHub at github.com/Deepak-05hub to see his coding projects and contributions.",
+        "His GitHub is github.com/Deepak-05hub. He also used GitHub professionally during his internship at Pumo Technovation for version control and collaborative code reviews."
+      ]
     },
-    {
-      "question": "Is Deepak a fresher?",
-      "answer": "Yes, Deepak is a 2026 fresher with a B.Tech in AI and Data Science. He has internship experience at Pumo Technovation and real-world project experience from his national hackathon-winning robot project."
+    "linkedin": {
+      "keywords": ["linkedin", "connect", "professional network", "profile"],
+      "answers": [
+        "Deepak's LinkedIn profile is linkedin.com/in/deepak-l-5a754732a. You can connect with him there for professional opportunities or collaborations.",
+        "Find Deepak on LinkedIn at linkedin.com/in/deepak-l-5a754732a. His profile showcases his skills, certifications, and career aspirations.",
+        "Connect with Deepak on LinkedIn at linkedin.com/in/deepak-l-5a754732a for networking, job opportunities, or just to learn more about his professional background."
+      ]
     },
-    {
-      "question": "What soft skills does Deepak have?",
-      "answer": "Deepak's key soft skills are adaptability, communication, leadership, problem solving, and team collaboration. He demonstrated leadership by leading his hackathon team to a national 1st place win."
+    "contact": {
+      "keywords": ["contact", "reach", "email", "phone", "call", "message", "hire", "connect", "get in touch", "talk"],
+      "answers": [
+        "You can reach Deepak at deepdeepak052004@gmail.com or call him at +91 8973398887. You can also connect on LinkedIn at linkedin.com/in/deepak-l-5a754732a or visit deepak-l.me.",
+        "To contact Deepak, email deepdeepak052004@gmail.com, call +91 8973398887, or message him on LinkedIn at linkedin.com/in/deepak-l-5a754732a.",
+        "Deepak is easy to reach. His email is deepdeepak052004@gmail.com, phone is +91 8973398887, and his portfolio is deepak-l.me. He responds quickly to job opportunities."
+      ]
     },
-    {
-      "question": "Why should I hire Deepak?",
-      "answer": "Deepak is a motivated fresher who doesn't just learn — he builds and wins. He has proven he can work in teams, deliver real projects under pressure, and pick up new skills fast. With a solid technical foundation, multiple certifications, a hackathon gold medal, and a portfolio ready to show, he is the kind of hire who adds value from day one."
+    "availability": {
+      "keywords": ["available", "availability", "open to work", "looking for job", "job search", "notice period", "joining", "when can start", "fresher"],
+      "answers": [
+        "Deepak is immediately available for work with no notice period. He is actively seeking full-time opportunities and can join right away.",
+        "Yes, Deepak is available immediately. He is a 2026 fresher ready to relocate to Bangalore and join any role that fits his profile.",
+        "Deepak is actively looking for work and can start immediately. He has zero notice period and is ready for full-time, on-site, hybrid, or remote roles."
+      ]
     },
-    {
-      "question": "What is Deepak's educational background?",
-      "answer": "Deepak completed his 10th grade with 82.2% and 12th grade with 79.3% from Govt. Boys Hr. Sec. School in Trichy, and is completing his B.Tech in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University with a CGPA of 8.1."
+    "target_roles": {
+      "keywords": ["role", "position", "job", "what kind of job", "looking for", "applying", "target", "designation", "title"],
+      "answers": [
+        "Deepak is targeting entry-level roles like Software Engineer, Python Developer, Data Analyst, AI/ML Engineer, Frontend Developer, or Full Stack Developer.",
+        "He is actively applying for Software Engineer, Python Developer, Data Analyst, and AI/ML Engineer positions, preferably in Bangalore or remote.",
+        "Deepak is open to SDE1, Python Developer, Data Analyst, React Developer, or AI Engineer roles. He is flexible about the exact title as long as the work involves building real tech."
+      ]
     },
-    {
-      "question": "What kind of projects has Deepak built?",
-      "answer": "Deepak has built an AI-Based Fire-Fighting Robot using IoT and Python that won a national hackathon, a personal portfolio website at deepak-l.me, and data analytics dashboards using Power BI and MySQL."
+    "location": {
+      "keywords": ["where", "location", "city", "bangalore", "trichy", "chennai", "relocate", "remote", "from", "based", "hometown"],
+      "answers": [
+        "Deepak is from Musiri, Trichy in Tamil Nadu. He is actively planning to relocate to Bangalore for work and is also open to remote opportunities.",
+        "He is currently based in Trichy, Tamil Nadu, and is ready to relocate to Bangalore. He is also open to remote positions.",
+        "Deepak calls Musiri, Trichy his home, but he is fully prepared to move to Bangalore for the right opportunity. Remote work is also welcome."
+      ]
     },
-    {
-      "question": "Is Deepak good at teamwork?",
-      "answer": "Absolutely. Deepak led his hackathon team through rapid prototyping and hardware-software integration, successfully delivering a working robot demo under competition pressure, securing 1st place among 1,000+ teams."
+    "certifications": {
+      "keywords": ["certification", "certificate", "certified", "oracle", "ibm", "nptel", "google cloud", "credential", "badge"],
+      "answers": [
+        "Deepak holds three certifications: Oracle Java Programming, IBM SkillsBuild UI/UX Design, and NPTEL Google Cloud Computing with an Elite badge.",
+        "His certifications are from Oracle for Java, IBM for UI/UX Design, and NPTEL for Google Cloud Computing where he earned the Elite badge for exceptional performance.",
+        "Deepak is certified in Java by Oracle, UI/UX Design by IBM SkillsBuild, and Google Cloud Computing by NPTEL with an Elite distinction — showing a commitment to lifelong learning."
+      ]
+    },
+    "hire_me": {
+      "keywords": ["why hire", "hire deepak", "should we hire", "reason to hire", "strengths", "value", "what do you bring", "what makes deepak"],
+      "answers": [
+        "Deepak is a motivated fresher who does not just study — he builds and wins. He has proven he can deliver real projects under pressure, lead a team, and pick up new skills fast. His hackathon gold medal, certifications, and portfolio show he adds value from day one.",
+        "You should hire Deepak because he has a rare combination of theoretical knowledge and hands-on project wins. He has won a national hackathon, completed a professional internship, earned three certifications, and built his own AI-powered portfolio website.",
+        "Deepak brings energy, proven problem-solving ability, and technical depth to any team. He is immediately available, quick to learn, and has already demonstrated he can build working systems that win national competitions."
+      ]
+    },
+    "salary": {
+      "keywords": ["salary", "pay", "compensation", "ctc", "package", "stipend", "money", "lpa", "expected"],
+      "answers": [
+        "Deepak is open to discussing salary based on the role and company. As a fresher, he is focused on finding the right opportunity to grow and contribute.",
+        "He is flexible on compensation and is happy to discuss package expectations based on the role. His priority is finding a role with real work and growth potential.",
+        "Deepak keeps an open mind on salary. He believes the right opportunity and learning environment matter more than just the number at the entry level."
+      ]
+    },
+    "soft_skills": {
+      "keywords": ["soft skills", "communication", "leadership", "teamwork", "team", "problem solving", "adaptable", "personality"],
+      "answers": [
+        "Deepak's key soft skills are adaptability, communication, leadership, problem solving, and team collaboration. He demonstrated leadership by leading his hackathon team to a national 1st place win.",
+        "He is known for being adaptable, a great communicator, and a natural team player. He led a cross-functional team through a national hackathon under real competition pressure.",
+        "Deepak is highly collaborative, adaptable, and a natural leader. He coordinated a team through rapid prototyping and live hardware demos during the national hackathon, earning them 1st place."
+      ]
+    },
+    "ieee_paper": {
+      "keywords": ["ieee", "paper", "research", "publication", "conference", "document", "report", "authored"],
+      "answers": [
+        "Yes, Deepak authored a complete IEEE-format conference paper on the AI-Based Fire-Fighting Robot, documenting system architecture, sensor protocols, test results, accuracy metrics, and deployment details.",
+        "He wrote an IEEE conference paper as part of his final year project, covering the technical design, communication protocols, hardware integration, and test outcomes of the fire-fighting robot.",
+        "Deepak's research output includes a full IEEE-format paper on his fire-fighting robot project. This shows he can not only build things but also document them at a professional research level."
+      ]
+    },
+    "what_is_ai": {
+      "keywords": ["what is ai", "what is artificial intelligence", "how does ai work", "explain ai", "define ai", "ai meaning"],
+      "answers": [
+        "Artificial Intelligence is the field of computer science focused on building machines that can perform tasks that normally require human intelligence, like reasoning, learning, and decision-making.",
+        "AI works by training systems on large amounts of data so they can recognize patterns, make predictions, or take actions — similar to how humans learn from experience.",
+        "Artificial Intelligence refers to systems that simulate human cognitive functions. Techniques like machine learning, deep learning, and NLP allow AI to learn, understand language, and make smart decisions."
+      ]
+    },
+    "what_is_ml": {
+      "keywords": ["what is machine learning", "machine learning meaning", "how ml works", "explain machine learning", "ml definition"],
+      "answers": [
+        "Machine Learning is a subset of AI where systems learn from data rather than being explicitly programmed. The algorithm finds patterns and improves its performance with more data over time.",
+        "ML works by feeding an algorithm labeled data, letting it find patterns, and then using those patterns to make predictions on new data. Examples include spam filters, recommendation engines, and image recognition.",
+        "Machine Learning is teaching a computer to make decisions by showing it many examples. It is the core technology behind Netflix recommendations, fraud detection, and voice assistants."
+      ]
+    },
+    "what_is_deep_learning": {
+      "keywords": ["deep learning", "neural network", "cnn", "rnn", "lstm", "transformer", "what is deep learning"],
+      "answers": [
+        "Deep Learning is a type of machine learning that uses multi-layered neural networks to learn from large amounts of data. It powers image recognition, speech-to-text, and language models.",
+        "Neural networks in deep learning are inspired by the human brain. They have layers of nodes that process data, and with enough data, they can learn very complex patterns.",
+        "Deep Learning uses deep neural networks with many hidden layers to learn features automatically from raw data like images, audio, or text — making it the foundation of modern AI systems."
+      ]
+    },
+    "what_is_python": {
+      "keywords": ["what is python", "python language", "why use python", "python uses", "python programming"],
+      "answers": [
+        "Python is a high-level, easy-to-read programming language widely used for AI, data science, web development, automation, and scripting. It is the most popular language in the tech world today.",
+        "Python is known for its simple syntax and massive ecosystem of libraries like pandas, numpy, scikit-learn, Flask, and FastAPI that make it perfect for everything from data analysis to AI development.",
+        "Python is a versatile language used by data scientists, AI engineers, web developers, and automation specialists. Its readability and rich library support make it the go-to language for modern tech."
+      ]
+    },
+    "what_is_sql": {
+      "keywords": ["what is sql", "sql meaning", "sql uses", "structured query language", "database query"],
+      "answers": [
+        "SQL stands for Structured Query Language and it is used to manage and query relational databases. You use it to create tables, insert data, retrieve records, join tables, and generate reports.",
+        "SQL is the standard language for working with relational databases like MySQL, PostgreSQL, and SQLite. It lets you filter, sort, join, and aggregate data to extract meaningful insights.",
+        "SQL is how you talk to a database. You write queries to fetch specific data, combine tables, count records, and analyze information — it is a fundamental skill for any data or backend role."
+      ]
+    },
+    "what_is_api": {
+      "keywords": ["what is api", "rest api", "api meaning", "application programming interface", "endpoint", "http request"],
+      "answers": [
+        "An API is an Application Programming Interface — a way for two software systems to talk to each other. For example, when you use a weather app, it calls a weather API to get the data.",
+        "A REST API is a standard way to build web services using HTTP methods like GET and POST. When Deepak's portfolio chatbot sends your question to the backend, it is using an API call.",
+        "APIs are the connectors between software. They let your frontend send a request and the backend send a response. Deepak built the FastAPI backend for his portfolio that handles these API calls."
+      ]
+    },
+    "what_is_git": {
+      "keywords": ["what is git", "github meaning", "version control", "git commands", "git hub", "repository"],
+      "answers": [
+        "Git is a version control system that tracks changes in your code over time. GitHub is a cloud platform to host and share Git repositories, collaborate on code, and manage projects.",
+        "Git lets you save snapshots of your code so you can go back if something breaks. Deepak used GitHub version control during his internship at Pumo Technovation for professional code collaboration.",
+        "Git and GitHub are essential developer tools. Git tracks your code history locally and GitHub hosts it online. Deepak uses GitHub at github.com/Deepak-05hub to store and share his projects."
+      ]
+    },
+    "what_is_fastapi": {
+      "keywords": ["fastapi", "what is fastapi", "fast api", "python backend", "api framework"],
+      "answers": [
+        "FastAPI is a modern, high-performance Python web framework for building APIs. Deepak used it to build the backend of his AI portfolio assistant that powers the voice chat feature.",
+        "FastAPI is one of the fastest Python frameworks for building REST APIs. It is easy to use, auto-generates API documentation, and integrates perfectly with AI models like Gemini.",
+        "Deepak chose FastAPI to build his portfolio backend because it is lightweight, fast, and Python-native. It handles the connection between the frontend chat widget and the Gemini AI model."
+      ]
+    },
+    "what_is_gemini": {
+      "keywords": ["gemini", "google gemini", "gemini ai", "what is gemini", "generative ai", "llm", "large language model"],
+      "answers": [
+        "Google Gemini is Google's family of large language models capable of understanding and generating text, images, and code. Deepak's portfolio AI assistant is powered by Gemini 2.5 Flash.",
+        "Gemini is Google's most advanced AI model. It processes natural language questions and generates intelligent, contextual responses — which is how Deepak's AI assistant answers your questions.",
+        "Deepak integrated Google Gemini into his portfolio backend using the Gemini API. When you ask a question, it is sent to Gemini with a detailed system prompt and Deepak's profile data to generate a smart answer."
+      ]
+    },
+    "what_is_iot": {
+      "keywords": ["what is iot", "internet of things", "iot meaning", "smart devices", "connected devices", "sensor"],
+      "answers": [
+        "IoT stands for Internet of Things — the network of physical devices embedded with sensors, software, and connectivity to collect and exchange data. Deepak used IoT sensors in his fire-fighting robot.",
+        "IoT connects real-world hardware to software systems. Deepak's fire-fighting robot is an IoT system where flame, temperature, and gas sensors send data to Python code that makes autonomous decisions.",
+        "IoT is about making physical objects smart by adding sensors and connectivity. The fire-fighting robot Deepak built is a perfect IoT example — sensors detect fire, and the software responds in real time."
+      ]
+    },
+    "what_is_powerbi": {
+      "keywords": ["what is power bi", "power bi explanation", "business intelligence", "tableau", "data visualization tool"],
+      "answers": [
+        "Power BI is Microsoft's business intelligence and data visualization tool. You connect it to data sources and build interactive dashboards, charts, and reports to help businesses make data-driven decisions.",
+        "Power BI transforms raw data into visual insights. Deepak uses it to build dashboards that show trends, KPIs, and patterns that would be hard to spot in spreadsheets alone.",
+        "Power BI is like Excel on steroids for data visualization. Deepak knows Power BI and uses it to build interactive reports and dashboards as part of his data analytics skill set."
+      ]
+    },
+    "what_is_cloud_computing": {
+      "keywords": ["what is cloud computing", "cloud meaning", "aws", "google cloud meaning", "cloud services", "saas", "iaas", "paas"],
+      "answers": [
+        "Cloud computing is delivering computing services like servers, storage, databases, and AI over the internet. Instead of owning hardware, you rent resources from providers like Google Cloud, AWS, or Azure.",
+        "The cloud lets businesses and developers access powerful computing resources on demand without managing physical servers. Deepak is certified in Google Cloud Computing at the Elite level from NPTEL.",
+        "Cloud computing means your apps and data live on remote servers instead of your own machine. Deepak has Google Cloud certification covering deployment, IAM, and GCP core services."
+      ]
+    },
+    "what_is_nlp": {
+      "keywords": ["nlp", "natural language processing", "what is nlp", "text processing", "language model", "chatbot"],
+      "answers": [
+        "NLP stands for Natural Language Processing — the field of AI that deals with teaching computers to understand, interpret, and generate human language.",
+        "NLP powers chatbots, voice assistants, translation tools, and sentiment analysis. Deepak studied NLP as a core subject in his B.Tech AI and Data Science program.",
+        "Natural Language Processing is what allows AI systems to understand what you say or type. The very chatbot you are using right now is powered by NLP and large language model technology."
+      ]
+    },
+    "what_is_data_science": {
+      "keywords": ["data science", "what is data science", "data scientist", "analytics", "data analysis"],
+      "answers": [
+        "Data Science is the field of extracting insights from large volumes of data using statistics, machine learning, and visualization. Deepak's entire B.Tech degree is focused on AI and Data Science.",
+        "Data Science combines programming, statistics, and domain knowledge to analyze data and make predictions. Skills like Python, SQL, and Power BI that Deepak has are core data science tools.",
+        "A data scientist collects, cleans, analyzes, and visualizes data to help organizations make better decisions. Deepak is trained in all of these areas through his degree, projects, and certifications."
+      ]
+    },
+    "what_is_react": {
+      "keywords": ["react", "reactjs", "react js", "frontend framework", "component", "jsx", "virtual dom"],
+      "answers": [
+        "React is a JavaScript library for building fast, interactive user interfaces using reusable components. It is developed by Meta and is the most popular frontend framework in the industry.",
+        "React uses a component-based architecture where you build small UI pieces and combine them into full web applications. Deepak has a strong frontend foundation and is expanding his React skills.",
+        "React is what powers many modern web apps. Deepak's HTML, CSS, and JavaScript foundation makes the transition to React straightforward, and he is actively building his React skill set."
+      ]
+    },
+    "what_is_git_github": {
+      "keywords": ["difference between git and github", "git vs github", "git vs gitlab"],
+      "answers": [
+        "Git is the version control tool you run locally on your computer to track code changes. GitHub is the online platform that hosts your Git repositories so you can share and collaborate on code.",
+        "Think of Git as the engine and GitHub as the garage. Git manages your code history locally, and GitHub stores and shares it with the world. Deepak uses both in his development workflow.",
+        "Git is the technology, GitHub is the service built on top of it. Deepak used both at his internship for professional code reviews, branching, and project delivery."
+      ]
+    },
+    "what_is_responsive_design": {
+      "keywords": ["responsive design", "mobile friendly", "responsive web", "media query", "flexbox", "grid layout"],
+      "answers": [
+        "Responsive design means building websites that look good on all screen sizes — from phones to desktops. Deepak built responsive web pages during his internship at Pumo Technovation.",
+        "A responsive website automatically adjusts its layout based on the screen size using CSS techniques like media queries, flexbox, and grid. Deepak applied these in his portfolio and internship work.",
+        "Responsive design ensures your website works perfectly on mobile, tablet, and desktop. Deepak built cross-browser-compatible, responsive pages at Pumo Technovation and in his own portfolio."
+      ]
+    },
+    "what_is_embedded_systems": {
+      "keywords": ["embedded systems", "microcontroller", "firmware", "what is embedded", "arduino programming", "hardware programming"],
+      "answers": [
+        "Embedded systems are specialized computing systems built into hardware devices to perform dedicated tasks. Deepak used Arduino-based embedded systems to control his fire-fighting robot.",
+        "An embedded system is a small computer inside a physical device. In Deepak's robot, the Arduino acts as the embedded controller that receives sensor data and drives the motors and water pump.",
+        "Embedded systems combine hardware and software to do specific jobs — like Deepak's robot which uses an Arduino controller to process sensor inputs and control motors and actuators in real time."
+      ]
+    },
+    "what_is_agile": {
+      "keywords": ["agile", "scrum", "sprint", "standup", "kanban", "project management", "software methodology"],
+      "answers": [
+        "Agile is a software development methodology that breaks work into short cycles called sprints. Teams have daily stand-up meetings and continuously deliver and improve the product.",
+        "Agile focuses on iterative development, collaboration, and flexibility. Deepak followed agile-style sprint workflows during his internship at Pumo Technovation.",
+        "Scrum is a popular agile framework with sprints, standups, and backlogs. Deepak participated in daily standups and sprint-based delivery during his web development internship."
+      ]
+    },
+    "what_is_oops": {
+      "keywords": ["oops", "oop", "object oriented programming", "class", "object", "inheritance", "polymorphism", "encapsulation"],
+      "answers": [
+        "Object-Oriented Programming is a programming paradigm that organizes code into classes and objects. Core concepts are encapsulation, inheritance, polymorphism, and abstraction.",
+        "OOP lets you model real-world things as code objects with properties and behaviors. Deepak is trained in OOP through his Java Oracle certification and Python programming.",
+        "Deepak understands OOP well, having studied it in his curriculum and earned an Oracle Java certification that covers OOP principles, class design, and exception handling."
+      ]
+    },
+    "what_is_data_structures": {
+      "keywords": ["data structures", "algorithm", "dsa", "array", "linked list", "tree", "graph", "sorting", "searching"],
+      "answers": [
+        "Data Structures and Algorithms are fundamental computer science concepts about organizing data efficiently and solving problems systematically. Deepak studied DSA as a core subject in his B.Tech.",
+        "DSA covers how to store and process data efficiently using arrays, linked lists, trees, graphs, and sorting/searching algorithms. It is a key topic in software engineering interviews.",
+        "Deepak studied Data Structures and Algorithms during his B.Tech in AI and Data Science. DSA is the backbone of writing efficient code and is tested in every software engineering interview."
+      ]
+    },
+    "what_is_uiux": {
+      "keywords": ["ui ux", "user interface", "user experience", "design", "wireframe", "prototype", "figma", "usability"],
+      "answers": [
+        "UI is User Interface — how an app looks. UX is User Experience — how it feels to use. Deepak holds an IBM SkillsBuild certification in UI/UX Design covering wireframing, prototyping, and usability testing.",
+        "Good UI/UX design makes products easy and enjoyable to use. Deepak is certified in UI/UX by IBM, trained in wireframing, prototyping, usability testing, and accessibility standards.",
+        "Deepak's IBM UI/UX certification means he understands how to design user-centered interfaces. This helps him build products that are not just functional but also easy and pleasant to use."
+      ]
+    },
+    "thanks_farewell": {
+      "keywords": ["thank you", "thanks", "bye", "goodbye", "see you", "that's all", "awesome", "great", "cool", "nice", "impressive"],
+      "answers": [
+        "You are welcome! Feel free to come back anytime you have more questions about Deepak or tech in general.",
+        "Happy to help! If you are a recruiter or just curious, Deepak would love to connect. Reach him at deepdeepak052004@gmail.com.",
+        "Thanks for visiting! Hope this was helpful. Check out deepak-l.me for more, or connect on LinkedIn at linkedin.com/in/deepak-l-5a754732a."
+      ]
+    },
+    "what_is_cors": {
+      "keywords": ["cors", "cross origin", "access control", "origin header", "preflight", "cors error"],
+      "answers": [
+        "CORS stands for Cross-Origin Resource Sharing. It is a browser security mechanism that controls which websites can make requests to your backend API from different domains.",
+        "When your frontend is on one domain and backend on another, the browser blocks requests by default for security. CORS headers tell the browser it is safe to allow those requests.",
+        "Deepak's FastAPI backend uses CORS middleware to allow his portfolio frontend at deepak-l.me to call the AI API backend without being blocked by browser security policies."
+      ]
+    },
+    "what_is_json": {
+      "keywords": ["json", "what is json", "json format", "data format", "javascript object notation"],
+      "answers": [
+        "JSON stands for JavaScript Object Notation. It is a lightweight text format for storing and exchanging data, widely used for API responses and configuration files.",
+        "JSON uses key-value pairs and is easy for both humans to read and machines to parse. Deepak's AI assistant stores all profile data in a profile.json file that the backend reads.",
+        "JSON is the standard format for data exchange between a frontend and backend. When Deepak's chatbot sends your question and gets an answer, the data travels as JSON."
+      ]
+    },
+    "what_is_middleware": {
+      "keywords": ["middleware", "what is middleware", "cors middleware", "request pipeline"],
+      "answers": [
+        "Middleware is code that runs between receiving a request and sending a response. In Deepak's FastAPI backend, CORS middleware intercepts every request to add the right headers for cross-origin access.",
+        "Middleware acts like a checkpoint in your server. It can check authentication, add headers, log requests, or modify data before your main function handles the request.",
+        "FastAPI uses middleware like CORS to process every incoming request before it reaches your route handler. It is a clean way to apply cross-cutting logic across all endpoints."
+      ]
+    },
+    "how_this_ai_works": {
+      "keywords": ["how does this work", "how does your ai work", "how is this built", "tech behind this", "how are you built", "this chatbot", "how does the chatbot work"],
+      "answers": [
+        "This AI is built with a FastAPI Python backend that receives your question, combines it with Deepak's full profile data and a detailed system prompt, sends it to Google Gemini 2.5 Flash, and returns the answer to the frontend.",
+        "When you type or speak a question, the frontend sends it to a FastAPI endpoint. The backend builds a prompt with Deepak's profile JSON and your question, calls the Gemini API, and streams back a clean plain-text answer.",
+        "This chatbot works by combining smart prompt engineering with Google Gemini AI. Your question hits the /ask endpoint, gets wrapped in a detailed context prompt about Deepak, goes to Gemini, and comes back as a voice-ready response."
+      ]
+    },
+    "voice_feature": {
+      "keywords": ["voice", "speech", "speak", "listen", "microphone", "talk", "text to speech", "speech to text", "web speech api"],
+      "answers": [
+        "This portfolio uses the Web Speech API built into your browser for both voice input and text-to-speech output. You can speak your question and hear the answer spoken back to you.",
+        "Deepak built a voice chat widget using the Web Speech API. It converts your speech to text, sends it to the AI backend, and then reads the answer back to you out loud.",
+        "The voice feature is powered by the browser's native Web Speech API — no third-party service needed. Deepak integrated it into his portfolio to create a more natural and interactive experience for visitors."
+      ]
+    },
+    "open_source": {
+      "keywords": ["open source", "contribute", "license", "fork", "pull request", "community"],
+      "answers": [
+        "Deepak actively uses GitHub at github.com/Deepak-05hub and is involved in the developer community. He is open to open source contributions and collaborative projects.",
+        "Deepak keeps his projects on GitHub. If you are interested in collaborating or contributing, check out his repositories at github.com/Deepak-05hub.",
+        "Deepak believes in sharing code and learning from the community. Visit his GitHub at github.com/Deepak-05hub to see his work and connect."
+      ]
+    },
+    "future_goals": {
+      "keywords": ["future", "goals", "ambition", "plan", "dream", "aspiration", "5 years", "where do you see yourself", "long term"],
+      "answers": [
+        "Deepak's goal is to join a fast-growing tech company in Bangalore, grow into a strong software engineer or data professional, and eventually work on impactful AI-powered products.",
+        "In the short term, Deepak wants to land his first full-time software engineering role in Bangalore. Long term, he wants to build AI systems that solve real-world problems at scale.",
+        "Deepak aspires to grow from an entry-level engineer into an AI product builder. His ideal future involves working on intelligent systems that make real-world impact — something his fire-fighting robot was just the beginning of."
+      ]
+    },
+    "team_lead": {
+      "keywords": ["team leader", "led team", "leadership", "managed", "coordinated", "team lead", "captain"],
+      "answers": [
+        "Deepak led his hackathon team through rapid prototyping, hardware-software integration, and a live demo under national competition pressure — earning 1st place among 1,000+ teams.",
+        "He demonstrated real leadership during the national hackathon by coordinating his team, managing the hardware build, and delivering a fully working demo on stage in front of judges.",
+        "Deepak is a proven team leader. He organized the roles, timeline, and demo strategy for his hackathon team, resulting in a 1st place finish at a national-level technical competition."
+      ]
+    },
+    "what_is_devops": {
+      "keywords": ["devops", "ci cd", "pipeline", "docker", "kubernetes", "deployment", "continuous integration", "continuous delivery"],
+      "answers": [
+        "DevOps is the practice of combining software development and IT operations to speed up delivery. It includes tools like Docker, Kubernetes, CI/CD pipelines, and automated testing.",
+        "DevOps bridges the gap between writing code and running it in production. CI/CD pipelines automatically test and deploy code every time a developer pushes changes.",
+        "Deepak has foundational knowledge of deployment and cloud operations through his Google Cloud certification, which covers deployment models and cloud infrastructure management."
+      ]
+    },
+    "what_is_docker": {
+      "keywords": ["docker", "container", "containerization", "image", "dockerfile"],
+      "answers": [
+        "Docker is a containerization tool that packages your application and all its dependencies into a container, ensuring it runs the same way on any machine.",
+        "Containers created by Docker are like lightweight virtual machines. They make deploying Python backends like Deepak's FastAPI app consistent across development and production environments.",
+        "Docker solves the it works on my machine problem by packaging everything your app needs into a portable container. It is widely used in modern cloud and DevOps workflows."
+      ]
+    },
+    "what_is_excel": {
+      "keywords": ["excel", "spreadsheet", "microsoft excel", "vlookup", "pivot table"],
+      "answers": [
+        "Microsoft Excel is a powerful spreadsheet tool used for data analysis, calculation, and visualization. Deepak lists Excel as one of his analytics tools alongside Power BI.",
+        "Excel is used for data organization, formulas, pivot tables, and basic charts. Deepak is comfortable with Excel for data analysis tasks as part of his data analytics skill set.",
+        "Excel and Power BI together are Deepak's data analysis toolkit. He uses Excel for data preparation and Power BI for building interactive dashboards."
+      ]
     }
-  ],
-
-  "ai_assistant_behavior": {
-    "tone": "Friendly, confident, conversational, and professional. Speak as Deepak's AI representative.",
-    "response_length": "Keep responses to 2-3 sentences maximum for voice readability. Short, clear, and impactful.",
-    "formatting_rules": "No markdown, no asterisks, no bullet points, no bold text. Plain conversational text only.",
-    "fallback_for_unknown": "For questions not covered in the profile, respond with: That is a bit outside what I know about Deepak, but feel free to reach out to him directly at deepdeepak052004@gmail.com or visit deepak-l.me for more.",
-    "never_do": [
-      "Never say Deepak is not available for work.",
-      "Never give a negative or discouraging answer about Deepak.",
-      "Never make up information not present in this profile.",
-      "Never use markdown or special characters in voice responses.",
-      "Never return an empty response."
-    ]
   }
 }
