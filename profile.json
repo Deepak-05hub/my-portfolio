@@ -1,43 +1,367 @@
 {
-  "name": "DEEPAK L",
-  "role": "AI & Data Science Engineer",
-  "company": "B.Tech Graduate (2026)",
-  "about": "I am a highly motivated B.Tech graduate in Artificial Intelligence and Data Science with hands-on experience in Python, web development, and data analytics. I recently secured 1st place among 1,000+ teams at a national hackathon.",
-  "projects": [
+  "personal": {
+    "name": "DEEPAK L",
+    "full_name": "Deepak L",
+    "role": "AI & Data Science Engineer",
+    "tagline": "B.Tech Graduate in AI & Data Science | Python Developer | Hackathon Winner | Seeking Entry-Level IT Roles",
+    "location": {
+      "current": "Musiri, Trichy, Tamil Nadu, India",
+      "open_to_relocate": true,
+      "preferred_cities": ["Bangalore", "Chennai", "Hyderabad", "Remote"],
+      "relocating_to": "Bangalore"
+    },
+    "contact": {
+      "email": "deepdeepak052004@gmail.com",
+      "phone": "+91 8973398887",
+      "linkedin": "linkedin.com/in/deepak-l-5a754732a",
+      "github": "github.com/Deepak-05hub",
+      "portfolio": "deepak-l.me"
+    },
+    "languages_spoken": [
+      { "language": "Tamil", "proficiency": "Native" },
+      { "language": "English", "proficiency": "Professional Proficiency" }
+    ]
+  },
+
+  "about": {
+    "summary": "I am a highly motivated B.Tech graduate in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University, graduating in 2026 with a CGPA of 8.1 out of 10. I have hands-on experience in Python, web development, data analytics, and AI/ML concepts. I secured 1st place among 1,000+ teams at a national-level hackathon by building an AI-Based Fire-Fighting Robot, which reflects my ability to work under pressure, lead a team, and deliver real working products. I hold certifications from Oracle, IBM, and NPTEL Google Cloud (Elite), and I am actively seeking entry-level roles as a Software Engineer, Python Developer, Data Analyst, or AI/ML Engineer.",
+    "personality": "I am an adaptable, curious, and hardworking engineer who loves building things that actually work. I thrive in team environments, pick up new tools quickly, and never stop learning. I believe in writing clean code, solving real problems, and continuously improving myself.",
+    "what_makes_me_unique": [
+      "Won 1st place among 1,000+ teams at a national hackathon — not just participated, but won.",
+      "Built a complete end-to-end AI-powered IoT robot as a final year project.",
+      "Certified by Oracle, IBM, and Google Cloud (NPTEL Elite) — showing commitment to continuous learning.",
+      "Experienced in both frontend web development and backend Python scripting.",
+      "Strong foundation in data analytics with Power BI and MySQL.",
+      "Authored a full IEEE-format research paper on my final year project."
+    ],
+    "career_goal": "I am looking for an entry-level IT role where I can contribute to real projects from day one. My goal is to join a fast-growing tech company in Bangalore, grow into a strong software engineer or data professional, and eventually work on impactful AI-powered products."
+  },
+
+  "education": [
     {
-      "title": "AI-Based Fire-Fighting Robot (Hybrid)",
-      "description": "Architected a fully autonomous fire-fighting robot using IoT sensors and implemented AI-driven decision logic, securing 1st place at a national level hackathon."
+      "degree": "B.Tech – Artificial Intelligence & Data Science",
+      "institution": "Dhanalakshmi Srinivasan College of Engineering",
+      "university": "Anna University",
+      "location": "Tamil Nadu, India",
+      "duration": "2022 – 2026",
+      "cgpa": "8.1 / 10",
+      "graduation_year": 2026,
+      "key_subjects": [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Structures and Algorithms",
+        "Database Management Systems",
+        "Python Programming",
+        "Artificial Intelligence",
+        "Natural Language Processing",
+        "Internet of Things",
+        "Cloud Computing",
+        "Computer Networks",
+        "Operating Systems",
+        "Object-Oriented Programming"
+      ],
+      "highlights": "Completed a full final year project on AI-Based Fire-Fighting Robot (Hybrid) and authored an IEEE conference paper. Actively participated in national-level hackathons and technical events."
+    },
+    {
+      "degree": "Higher Secondary (12th Grade)",
+      "institution": "Govt. Boys Hr. Sec. School, T.Pet",
+      "location": "Trichy, Tamil Nadu, India",
+      "year": 2022,
+      "percentage": "79.3%",
+      "stream": "Science"
+    },
+    {
+      "degree": "Secondary School (10th Grade)",
+      "institution": "Govt. Boys Hr. Sec. School, T.Pet",
+      "location": "Trichy, Tamil Nadu, India",
+      "year": 2020,
+      "percentage": "82.2%"
     }
   ],
-  "technical_skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "HTML5",
-    "CSS3",
-    "MySQL",
-    "Power BI",
-    "Machine Learning",
-    "Google Cloud"
-  ],
-  "contact": {
-    "email": "deepdeepak052004@gmail.com",
-    "phone": "+91 8973398887",
-    "linkedin": "linkedin.com/in/deepak-1-5a754732a",
-    "github": "github.com/Deepak-05hub"
-  },
+
   "experience": [
     {
       "title": "Web Development Intern",
       "company": "Pumo Technovation",
-      "dates": "Feb 2024 - Mar 2024",
-      "description": "Built fully responsive web pages using HTML5 and CSS3, and collaborated on real-world project workflows using GitHub version control."
+      "location": "Coimbatore, Tamil Nadu, India",
+      "type": "Internship",
+      "duration": "Feb 2024 – Mar 2024",
+      "duration_weeks": "6 weeks",
+      "tech_used": ["HTML5", "CSS3", "GitHub", "VS Code"],
+      "responsibilities": [
+        "Built and styled fully responsive web pages using HTML5 and CSS3, translating design mockups into clean, cross-browser-compatible interfaces.",
+        "Collaborated with senior developers on real-world project workflows, adopting GitHub version control best practices for code reviews and branch management.",
+        "Gained exposure to client requirement gathering, iterative design cycles, and professional debugging techniques in a live development environment.",
+        "Implemented responsive layouts ensuring compatibility across Chrome, Firefox, and Safari browsers on both desktop and mobile devices.",
+        "Participated in daily stand-up meetings and followed agile-style sprint workflows for feature delivery."
+      ],
+      "key_learnings": [
+        "How to work in a professional development team environment.",
+        "Git-based version control for collaborative coding.",
+        "Translating design wireframes into functional web pages.",
+        "Writing clean, maintainable, and cross-browser compatible HTML and CSS."
+      ],
+      "impact": "This internship gave me my first professional software experience and taught me how real-world web projects are built, reviewed, and delivered in a company setting."
     }
   ],
-  "certifications": [
-    "Oracle Certification Java Programming",
-    "IBM Skills Build - UI/UX Design",
-    "NPTEL-Google Cloud Computing (Elite)"
+
+  "projects": [
+    {
+      "title": "AI-Based Fire-Fighting Robot (Hybrid)",
+      "type": "Final Year Project + National Hackathon Winner",
+      "tech_stack": ["Python", "IoT", "Embedded Systems", "Arduino", "Flame Sensor", "Temperature Sensor", "Gas Sensor", "Motor Driver", "Water Pump"],
+      "duration": "Apr 2025",
+      "achievement": "1st Place among 1,000+ competing teams at a national-level hackathon with a fully functional live demo",
+      "description": "Designed and built a fully autonomous fire-fighting robot that detects fire using a multi-sensor array (flame, temperature, and gas sensors) and responds by navigating toward the fire and activating a water-spraying suppression system — all without any human intervention.",
+      "how_it_works": "The robot uses three types of IoT sensors: a flame sensor that detects infrared radiation from fire, a temperature sensor for heat threshold detection, and a gas sensor for smoke and combustible gas. When sensors detect abnormal readings, an AI decision logic module written in Python evaluates all three sensor inputs simultaneously and triggers the motorised navigation system to move toward the fire. Once within range, the water pump activates to suppress the fire. The entire pipeline from detection to suppression runs with minimal latency.",
+      "technical_highlights": [
+        "Multi-sensor fusion: flame, temperature, and gas sensors feeding into one decision pipeline.",
+        "AI-driven threshold logic to reduce false positives and improve accuracy.",
+        "Real-time response with minimal latency from detection to water spray activation.",
+        "Hardware-software integration combining Python scripts with Arduino-based embedded systems.",
+        "Fully autonomous navigation with no remote control required during fire suppression."
+      ],
+      "hackathon_story": "Our team was competing against over 1,000 teams from colleges across India. We built the prototype in a short sprint, integrated hardware and software on-site, and ran a live demo in front of judges. The robot successfully detected and suppressed a controlled fire on the demo stage, earning us 1st place.",
+      "research_output": "Authored a complete IEEE-format conference paper and project report documenting system architecture, sensor communication protocols, test results, accuracy metrics, and deployment considerations.",
+      "impact": "This project demonstrates my ability to combine AI, IoT, and embedded systems into a real working product — not just a simulation or a slideshow."
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "type": "Personal Project",
+      "tech_stack": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+      "url": "deepak-l.me",
+      "description": "Designed and built a fully responsive personal portfolio website to showcase my projects, skills, resume, and contact information to recruiters and potential employers.",
+      "features": [
+        "Clean editorial-style design with dark mode support.",
+        "Fully responsive layout for mobile, tablet, and desktop.",
+        "Project showcase section with descriptions and links.",
+        "Resume download button.",
+        "AI chatbot integration for visitor Q&A.",
+        "Contact section with direct links to email, LinkedIn, and GitHub."
+      ],
+      "purpose": "To create a strong online presence and give recruiters a professional, polished view of my work beyond just a resume."
+    },
+    {
+      "title": "Data Analysis Projects (Power BI & MySQL)",
+      "type": "Academic & Personal Projects",
+      "tech_stack": ["Power BI", "MySQL", "Microsoft Excel", "Python"],
+      "description": "Built multiple data analysis dashboards and SQL-based reporting projects as part of my academic coursework and self-learning.",
+      "highlights": [
+        "Created interactive dashboards in Power BI to visualize trends and KPIs.",
+        "Wrote complex SQL queries for data extraction, joining, filtering, and aggregation.",
+        "Cleaned and prepared raw data using Python (pandas) for analysis.",
+        "Summarized insights into actionable reports."
+      ]
+    }
   ],
-  "education": "B.Tech in Artificial Intelligence & Data Science at Dhanalakshmi Srinivasan College of Engineering"
+
+  "technical_skills": {
+    "programming_languages": {
+      "primary": ["Python", "SQL", "HTML5", "CSS3"],
+      "secondary": ["Java", "JavaScript"],
+      "details": {
+        "Python": "My strongest language. Used for scripting, data analysis, AI/ML models, automation, and backend development. Comfortable with libraries like pandas, numpy, matplotlib, and scikit-learn.",
+        "SQL": "Write complex queries, joins, subqueries, aggregations, and database design using MySQL.",
+        "HTML5_CSS3": "Build fully responsive, cross-browser-compatible web pages. Used in internship and portfolio projects.",
+        "Java": "Certified by Oracle. Understand OOP principles, exception handling, and enterprise patterns."
+      }
+    },
+    "databases": ["MySQL"],
+    "analytics_and_visualization": ["Power BI", "Microsoft Excel"],
+    "cloud_and_devops": ["Google Cloud Platform (GCP)", "VS Code", "GitHub"],
+    "ai_ml": ["Machine Learning", "Scikit-learn", "AI Decision Logic", "Data Preprocessing", "Feature Engineering"],
+    "iot_and_embedded": ["Arduino", "IoT Sensors (Flame, Temperature, Gas)", "Embedded Systems", "Motor Drivers"],
+    "web_development": ["HTML5", "CSS3", "Responsive Design", "REST APIs"],
+    "tools": ["VS Code", "Git", "GitHub", "Power BI", "MySQL Workbench", "Google Colab", "Jupyter Notebook"],
+    "soft_skills": ["Adaptability", "Communication", "Leadership", "Problem Solving", "Team Collaboration", "Quick Learner", "Attention to Detail"]
+  },
+
+  "certifications": [
+    {
+      "title": "Oracle Certification – Java Programming",
+      "issuer": "Oracle",
+      "description": "Covers Java fundamentals, object-oriented programming principles, exception handling, and enterprise application design patterns.",
+      "skills_gained": ["Java", "OOP", "Exception Handling", "Enterprise Application Design"]
+    },
+    {
+      "title": "IBM SkillsBuild – UI/UX Design",
+      "issuer": "IBM",
+      "description": "Covers wireframing, prototyping, usability testing methodologies, and accessibility standards for digital products.",
+      "skills_gained": ["Wireframing", "Prototyping", "Usability Testing", "Accessibility Standards", "User Research"]
+    },
+    {
+      "title": "NPTEL – Google Cloud Computing (Elite)",
+      "issuer": "NPTEL (in association with Google Cloud)",
+      "badge": "Elite",
+      "description": "Advanced certification covering core Google Cloud services, deployment models, IAM policies, and cloud security best practices. Elite badge awarded for exceptional performance.",
+      "skills_gained": ["Google Cloud Platform", "Cloud Deployment", "IAM", "Cloud Security", "GCP Services"]
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "1st Place – National Hackathon",
+      "competition": "National Level Technical Hackathon",
+      "teams_competing": "1,000+",
+      "project": "AI-Based Fire-Fighting Robot (Hybrid)",
+      "year": 2025,
+      "description": "Designed, built, and demonstrated the AI-Based Fire-Fighting Robot prototype in a live national-level competition. Secured 1st place among over 1,000 competing teams with a fully functional real-time demo in front of judges."
+    }
+  ],
+
+  "job_targets": {
+    "target_roles": [
+      "Software Engineer (SDE1)",
+      "Python Developer",
+      "Data Analyst",
+      "AI/ML Engineer",
+      "Frontend Developer",
+      "React Developer",
+      "Backend Developer",
+      "Full Stack Developer (Junior)"
+    ],
+    "target_companies_type": ["Product-based startups", "IT service companies", "AI/Data-focused firms", "Tech MNCs with fresher programs"],
+    "preferred_locations": ["Bangalore", "Chennai", "Remote", "Hyderabad"],
+    "availability": "Immediately available. Open to relocation to Bangalore.",
+    "work_type": ["Full-time", "On-site", "Hybrid", "Remote"],
+    "salary_expectation": "Open to discussion based on role and company.",
+    "notice_period": "Immediately available (fresher)",
+    "recent_interviews": [
+      {
+        "company": "V Align Technologies",
+        "role": "Python Developer",
+        "location": "Bengaluru",
+        "type": "Face-to-face interview",
+        "status": "Attended"
+      }
+    ]
+  },
+
+  "online_presence": {
+    "portfolio": "https://deepak-l.me",
+    "github": "https://github.com/Deepak-05hub",
+    "linkedin": "https://linkedin.com/in/deepak-l-5a754732a",
+    "email": "deepdeepak052004@gmail.com"
+  },
+
+  "faq": [
+    {
+      "question": "Who is Deepak?",
+      "answer": "Deepak L is a 2026 B.Tech graduate in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University. He is a skilled Python developer, web developer, and data analytics enthusiast who won 1st place among 1,000+ teams at a national hackathon."
+    },
+    {
+      "question": "What is Deepak's CGPA?",
+      "answer": "Deepak has a CGPA of 8.1 out of 10 in his B.Tech Artificial Intelligence and Data Science program from Anna University."
+    },
+    {
+      "question": "What are Deepak's skills?",
+      "answer": "Deepak's primary skills include Python, SQL, HTML5, CSS3, MySQL, Power BI, Machine Learning, and Google Cloud. He also has experience with Java, IoT, embedded systems, and REST APIs."
+    },
+    {
+      "question": "Is Deepak available for work?",
+      "answer": "Yes, Deepak is immediately available for work. He is actively looking for entry-level roles as a Software Engineer, Python Developer, Data Analyst, or AI/ML Engineer. He is open to Bangalore-based or remote opportunities and is ready to relocate."
+    },
+    {
+      "question": "What is Deepak's most impressive achievement?",
+      "answer": "Deepak led his team to win 1st place among over 1,000 competing teams at a national hackathon by building a fully functional AI-Based Fire-Fighting Robot using IoT sensors and Python-driven AI logic."
+    },
+    {
+      "question": "What internship has Deepak done?",
+      "answer": "Deepak completed a Web Development internship at Pumo Technovation in Coimbatore from February to March 2024. He built responsive web pages using HTML5 and CSS3, and worked with senior developers using GitHub version control in a real-world project environment."
+    },
+    {
+      "question": "What certifications does Deepak hold?",
+      "answer": "Deepak holds three certifications: Oracle Java Programming, IBM SkillsBuild UI/UX Design, and NPTEL Google Cloud Computing with an Elite badge."
+    },
+    {
+      "question": "How can I contact Deepak?",
+      "answer": "You can contact Deepak at deepdeepak052004@gmail.com, call him at +91 8973398887, connect on LinkedIn at linkedin.com/in/deepak-l-5a754732a, or visit his portfolio at deepak-l.me."
+    },
+    {
+      "question": "What roles is Deepak targeting?",
+      "answer": "Deepak is targeting entry-level roles including Software Engineer, Python Developer, Data Analyst, AI/ML Engineer, and Frontend or React Developer positions, preferably in Bangalore or remote."
+    },
+    {
+      "question": "Tell me about Deepak's fire-fighting robot project.",
+      "answer": "Deepak's AI-Based Fire-Fighting Robot uses IoT sensors including flame, temperature, and gas sensors to autonomously detect fire. An AI decision logic module written in Python evaluates all sensor inputs and triggers the robot to navigate toward the fire and activate a water pump for suppression. The project won 1st place among 1,000+ teams at a national hackathon and was also documented as an IEEE-format research paper."
+    },
+    {
+      "question": "Where is Deepak from?",
+      "answer": "Deepak is from Musiri, Trichy, Tamil Nadu, India. He is currently open to relocating to Bangalore for the right opportunity."
+    },
+    {
+      "question": "What is Deepak's portfolio website?",
+      "answer": "Deepak's portfolio website is deepak-l.me where you can see his projects, download his resume, and learn more about his skills and background."
+    },
+    {
+      "question": "What is Deepak's GitHub?",
+      "answer": "Deepak's GitHub profile is github.com/Deepak-05hub where you can find his code repositories and project work."
+    },
+    {
+      "question": "What is Deepak's LinkedIn?",
+      "answer": "Deepak's LinkedIn profile is linkedin.com/in/deepak-l-5a754732a. You can connect with him there for professional opportunities."
+    },
+    {
+      "question": "Does Deepak know Python?",
+      "answer": "Yes, Python is Deepak's strongest programming language. He has used it for scripting, AI logic, IoT integration, data analysis, and backend development across multiple projects."
+    },
+    {
+      "question": "Does Deepak know React?",
+      "answer": "Deepak has exposure to frontend development and is open to React Developer roles. He has a strong HTML5 and CSS3 foundation and is actively expanding into React and JavaScript frameworks."
+    },
+    {
+      "question": "What database does Deepak use?",
+      "answer": "Deepak works with MySQL for relational database management. He writes SQL queries for data extraction, joins, aggregations, and reporting."
+    },
+    {
+      "question": "Does Deepak have cloud experience?",
+      "answer": "Yes, Deepak holds an NPTEL Elite certification in Google Cloud Computing, covering GCP services, deployment models, IAM, and cloud security best practices."
+    },
+    {
+      "question": "What is Power BI and does Deepak know it?",
+      "answer": "Power BI is Microsoft's business intelligence and data visualization tool. Yes, Deepak uses Power BI to build interactive dashboards and analyze data trends as part of his data analytics skill set."
+    },
+    {
+      "question": "Has Deepak published any research?",
+      "answer": "Yes, Deepak authored a complete IEEE-format conference paper on the AI-Based Fire-Fighting Robot project, documenting the system architecture, sensor protocols, test results, and deployment details."
+    },
+    {
+      "question": "Is Deepak a fresher?",
+      "answer": "Yes, Deepak is a 2026 fresher with a B.Tech in AI and Data Science. He has internship experience at Pumo Technovation and real-world project experience from his national hackathon-winning robot project."
+    },
+    {
+      "question": "What soft skills does Deepak have?",
+      "answer": "Deepak's key soft skills are adaptability, communication, leadership, problem solving, and team collaboration. He demonstrated leadership by leading his hackathon team to a national 1st place win."
+    },
+    {
+      "question": "Why should I hire Deepak?",
+      "answer": "Deepak is a motivated fresher who doesn't just learn — he builds and wins. He has proven he can work in teams, deliver real projects under pressure, and pick up new skills fast. With a solid technical foundation, multiple certifications, a hackathon gold medal, and a portfolio ready to show, he is the kind of hire who adds value from day one."
+    },
+    {
+      "question": "What is Deepak's educational background?",
+      "answer": "Deepak completed his 10th grade with 82.2% and 12th grade with 79.3% from Govt. Boys Hr. Sec. School in Trichy, and is completing his B.Tech in Artificial Intelligence and Data Science from Dhanalakshmi Srinivasan College of Engineering under Anna University with a CGPA of 8.1."
+    },
+    {
+      "question": "What kind of projects has Deepak built?",
+      "answer": "Deepak has built an AI-Based Fire-Fighting Robot using IoT and Python that won a national hackathon, a personal portfolio website at deepak-l.me, and data analytics dashboards using Power BI and MySQL."
+    },
+    {
+      "question": "Is Deepak good at teamwork?",
+      "answer": "Absolutely. Deepak led his hackathon team through rapid prototyping and hardware-software integration, successfully delivering a working robot demo under competition pressure, securing 1st place among 1,000+ teams."
+    }
+  ],
+
+  "ai_assistant_behavior": {
+    "tone": "Friendly, confident, conversational, and professional. Speak as Deepak's AI representative.",
+    "response_length": "Keep responses to 2-3 sentences maximum for voice readability. Short, clear, and impactful.",
+    "formatting_rules": "No markdown, no asterisks, no bullet points, no bold text. Plain conversational text only.",
+    "fallback_for_unknown": "For questions not covered in the profile, respond with: That is a bit outside what I know about Deepak, but feel free to reach out to him directly at deepdeepak052004@gmail.com or visit deepak-l.me for more.",
+    "never_do": [
+      "Never say Deepak is not available for work.",
+      "Never give a negative or discouraging answer about Deepak.",
+      "Never make up information not present in this profile.",
+      "Never use markdown or special characters in voice responses.",
+      "Never return an empty response."
+    ]
+  }
 }
